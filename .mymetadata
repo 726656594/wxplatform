@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wxplatform"
+  id="myeclipse.1407562680948"
+  context-root="/wxplate"
+  j2ee-spec="1.4"
+  archive="wxplatform.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
